@@ -1,0 +1,17 @@
+Types: deb
+URIs: https://launchpad.proxy.ustclug.org/flexiondotorg/quickemu/ubuntu/
+Suites: mantic
+Components: main
+Signed-By: 
+ -----BEGIN PGP PUBLIC KEY BLOCK-----
+ .
+ mI0ETYEbmAEEANiu0izzu67zQIDaNf7aHI3tZBjxy/lIDmkmesY3S565Pqm/Osfv
+ hOsrahIt+Wmcq0ympyEJ1aU24co8DyfT0A7iUwL3zCytAaHl/jUNoxJ0P8iBQ+hK
+ R5IvBrYm/wItur9gx+ph4Zr/P6R53AYjjlOl9XV8H1gKb7m+1/7nhQoXABEBAAG0
+ IUxhdW5jaHBhZCBQUEEgZm9yIE1hcnRpbiBXaW1wcmVzc4i4BBMBAgAiBQJNgRuY
+ AhsDBgsJCAcDAgYVCAIJCgsEFgIDAQIeAQIXgAAKCRAuqPNXk9iAml5MBACYYkwj
+ o28wL31EaHR9CmrHFtlFWhmu1EgBykZA+1VAI6R210o03BizI/GmuPZQ0ydVugra
+ C7+AX7wMZ2JC9QjxS653IdWula/4T31sMSoL9VWFQXf3ImCn1RC6S4dT2osE8UCW
+ /6zRFsOmyKi2jP5iKYI323ZWVi7YNJ5Nr+bj7w==
+ =XUkh
+ -----END PGP PUBLIC KEY BLOCK-----
